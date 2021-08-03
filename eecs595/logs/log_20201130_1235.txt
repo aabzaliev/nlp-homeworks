@@ -1,0 +1,1070 @@
+[[11/30/2020 12:35:56 PM]] SEED: 2711
+[[11/30/2020 12:35:56 PM]] # of paramters: 358,245,890
+[[11/30/2020 12:35:56 PM]] # of trainable paramters: 3,935,746
+[[11/30/2020 12:35:56 PM]] Optimizer Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    initial_lr: 0.0001
+    lr: 5e-06
+    weight_decay: 0
+)
+[[11/30/2020 12:35:56 PM]] Batches per epoch: 235
+[[11/30/2020 12:35:56 PM]] ====================Epoch 1====================
+[[11/30/2020 12:35:57 PM]] Step 20: train 0.697057 lr: 7.305e-06
+[[11/30/2020 12:35:59 PM]] Step 40: train 0.696754 lr: 9.732e-06
+[[11/30/2020 12:36:00 PM]] Snapshot loss 0.693188
+[[11/30/2020 12:36:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:04 PM]] New low
+
+[[11/30/2020 12:36:05 PM]] Step 60: train 0.696173 lr: 1.216e-05
+[[11/30/2020 12:36:06 PM]] Step 80: train 0.696201 lr: 1.458e-05
+[[11/30/2020 12:36:08 PM]] Snapshot loss 0.692799
+[[11/30/2020 12:36:12 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:12 PM]] New low
+
+[[11/30/2020 12:36:13 PM]] Step 100: train 0.695484 lr: 1.701e-05
+[[11/30/2020 12:36:14 PM]] Step 120: train 0.695864 lr: 1.944e-05
+[[11/30/2020 12:36:16 PM]] Snapshot loss 0.693483
+[[11/30/2020 12:36:16 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:17 PM]] Step 140: train 0.695526 lr: 2.186e-05
+[[11/30/2020 12:36:19 PM]] Step 160: train 0.695553 lr: 2.429e-05
+[[11/30/2020 12:36:20 PM]] Snapshot loss 0.694729
+[[11/30/2020 12:36:20 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:22 PM]] Step 180: train 0.695651 lr: 2.672e-05
+[[11/30/2020 12:36:23 PM]] Step 200: train 0.695628 lr: 2.914e-05
+[[11/30/2020 12:36:25 PM]] Snapshot loss 0.693099
+[[11/30/2020 12:36:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:26 PM]] Step 220: train 0.696257 lr: 3.157e-05
+[[11/30/2020 12:36:27 PM]] ====================Epoch 2====================
+[[11/30/2020 12:36:27 PM]] Step 240: train 0.696083 lr: 3.400e-05
+[[11/30/2020 12:36:29 PM]] Snapshot loss 0.692673
+[[11/30/2020 12:36:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:33 PM]] New low
+
+[[11/30/2020 12:36:34 PM]] Step 260: train 0.696217 lr: 3.642e-05
+[[11/30/2020 12:36:35 PM]] Step 280: train 0.696231 lr: 3.885e-05
+[[11/30/2020 12:36:37 PM]] Snapshot loss 0.694429
+[[11/30/2020 12:36:37 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:38 PM]] Step 300: train 0.696363 lr: 4.128e-05
+[[11/30/2020 12:36:40 PM]] Step 320: train 0.696226 lr: 4.370e-05
+[[11/30/2020 12:36:41 PM]] Snapshot loss 0.699507
+[[11/30/2020 12:36:41 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:42 PM]] Step 340: train 0.696622 lr: 4.613e-05
+[[11/30/2020 12:36:44 PM]] Step 360: train 0.698163 lr: 4.856e-05
+[[11/30/2020 12:36:45 PM]] Snapshot loss 0.692395
+[[11/30/2020 12:36:49 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:49 PM]] New low
+
+[[11/30/2020 12:36:50 PM]] Step 380: train 0.698147 lr: 5.098e-05
+[[11/30/2020 12:36:52 PM]] Step 400: train 0.698501 lr: 5.341e-05
+[[11/30/2020 12:36:53 PM]] Snapshot loss 0.693271
+[[11/30/2020 12:36:53 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:55 PM]] Step 420: train 0.698452 lr: 5.584e-05
+[[11/30/2020 12:36:56 PM]] Step 440: train 0.698556 lr: 5.826e-05
+[[11/30/2020 12:36:58 PM]] Snapshot loss 0.693204
+[[11/30/2020 12:36:58 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:36:59 PM]] Step 460: train 0.698231 lr: 6.069e-05
+[[11/30/2020 12:37:00 PM]] ====================Epoch 3====================
+[[11/30/2020 12:37:00 PM]] Step 480: train 0.697867 lr: 6.312e-05
+[[11/30/2020 12:37:02 PM]] Snapshot loss 0.691273
+[[11/30/2020 12:37:06 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:06 PM]] New low
+
+[[11/30/2020 12:37:07 PM]] Step 500: train 0.697411 lr: 6.554e-05
+[[11/30/2020 12:37:08 PM]] Step 520: train 0.696974 lr: 6.797e-05
+[[11/30/2020 12:37:10 PM]] Snapshot loss 0.700135
+[[11/30/2020 12:37:10 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:11 PM]] Step 540: train 0.697121 lr: 7.040e-05
+[[11/30/2020 12:37:12 PM]] Step 560: train 0.697250 lr: 7.282e-05
+[[11/30/2020 12:37:14 PM]] Snapshot loss 0.700014
+[[11/30/2020 12:37:14 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:15 PM]] Step 580: train 0.697328 lr: 7.525e-05
+[[11/30/2020 12:37:17 PM]] Step 600: train 0.697497 lr: 7.768e-05
+[[11/30/2020 12:37:18 PM]] Snapshot loss 0.692732
+[[11/30/2020 12:37:18 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:20 PM]] Step 620: train 0.697534 lr: 8.010e-05
+[[11/30/2020 12:37:21 PM]] Step 640: train 0.697572 lr: 8.253e-05
+[[11/30/2020 12:37:22 PM]] Snapshot loss 0.694841
+[[11/30/2020 12:37:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:24 PM]] Step 660: train 0.695921 lr: 8.496e-05
+[[11/30/2020 12:37:25 PM]] Step 680: train 0.695446 lr: 8.738e-05
+[[11/30/2020 12:37:27 PM]] Snapshot loss 0.696751
+[[11/30/2020 12:37:27 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:28 PM]] Step 700: train 0.695683 lr: 8.981e-05
+[[11/30/2020 12:37:28 PM]] ====================Epoch 4====================
+[[11/30/2020 12:37:29 PM]] Step 720: train 0.695632 lr: 9.223e-05
+[[11/30/2020 12:37:31 PM]] Snapshot loss 0.695543
+[[11/30/2020 12:37:31 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:32 PM]] Step 740: train 0.695294 lr: 9.466e-05
+[[11/30/2020 12:37:34 PM]] Step 760: train 0.695632 lr: 9.709e-05
+[[11/30/2020 12:37:35 PM]] Snapshot loss 0.696131
+[[11/30/2020 12:37:35 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:37 PM]] Step 780: train 0.695733 lr: 9.951e-05
+[[11/30/2020 12:37:38 PM]] Step 800: train 0.696189 lr: 9.903e-05
+[[11/30/2020 12:37:40 PM]] Snapshot loss 0.699287
+[[11/30/2020 12:37:40 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:41 PM]] Step 820: train 0.696631 lr: 9.782e-05
+[[11/30/2020 12:37:42 PM]] Step 840: train 0.696251 lr: 9.660e-05
+[[11/30/2020 12:37:44 PM]] Snapshot loss 0.700198
+[[11/30/2020 12:37:44 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:45 PM]] Step 860: train 0.696805 lr: 9.539e-05
+[[11/30/2020 12:37:46 PM]] Step 880: train 0.696618 lr: 9.418e-05
+[[11/30/2020 12:37:48 PM]] Snapshot loss 0.692140
+[[11/30/2020 12:37:48 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:49 PM]] Step 900: train 0.695738 lr: 9.297e-05
+[[11/30/2020 12:37:50 PM]] Step 920: train 0.695541 lr: 9.175e-05
+[[11/30/2020 12:37:52 PM]] Snapshot loss 0.699986
+[[11/30/2020 12:37:52 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:53 PM]] Step 940: train 0.695188 lr: 9.054e-05
+[[11/30/2020 12:37:53 PM]] ====================Epoch 5====================
+[[11/30/2020 12:37:55 PM]] Step 960: train 0.694932 lr: 8.933e-05
+[[11/30/2020 12:37:57 PM]] Snapshot loss 0.698175
+[[11/30/2020 12:37:57 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:37:58 PM]] Step 980: train 0.695488 lr: 8.812e-05
+[[11/30/2020 12:37:59 PM]] Step 1000: train 0.695083 lr: 8.690e-05
+[[11/30/2020 12:38:01 PM]] Snapshot loss 0.693922
+[[11/30/2020 12:38:01 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:02 PM]] Step 1020: train 0.694737 lr: 8.569e-05
+[[11/30/2020 12:38:03 PM]] Step 1040: train 0.695569 lr: 8.448e-05
+[[11/30/2020 12:38:05 PM]] Snapshot loss 0.692211
+[[11/30/2020 12:38:05 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:06 PM]] Step 1060: train 0.695841 lr: 8.327e-05
+[[11/30/2020 12:38:07 PM]] Step 1080: train 0.696301 lr: 8.205e-05
+[[11/30/2020 12:38:09 PM]] Snapshot loss 0.693020
+[[11/30/2020 12:38:09 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:10 PM]] Step 1100: train 0.696413 lr: 8.084e-05
+[[11/30/2020 12:38:11 PM]] Step 1120: train 0.695850 lr: 7.963e-05
+[[11/30/2020 12:38:13 PM]] Snapshot loss 0.692793
+[[11/30/2020 12:38:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:14 PM]] Step 1140: train 0.696021 lr: 7.842e-05
+[[11/30/2020 12:38:16 PM]] Step 1160: train 0.695051 lr: 7.720e-05
+[[11/30/2020 12:38:17 PM]] Snapshot loss 0.695328
+[[11/30/2020 12:38:17 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:18 PM]] ====================Epoch 6====================
+[[11/30/2020 12:38:19 PM]] Step 1180: train 0.695739 lr: 7.599e-05
+[[11/30/2020 12:38:20 PM]] Step 1200: train 0.696635 lr: 7.478e-05
+[[11/30/2020 12:38:22 PM]] Snapshot loss 0.695863
+[[11/30/2020 12:38:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:23 PM]] Step 1220: train 0.697167 lr: 7.357e-05
+[[11/30/2020 12:38:24 PM]] Step 1240: train 0.697238 lr: 7.235e-05
+[[11/30/2020 12:38:26 PM]] Snapshot loss 0.692521
+[[11/30/2020 12:38:26 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:27 PM]] Step 1260: train 0.697190 lr: 7.114e-05
+[[11/30/2020 12:38:28 PM]] Step 1280: train 0.697152 lr: 6.993e-05
+[[11/30/2020 12:38:30 PM]] Snapshot loss 0.695969
+[[11/30/2020 12:38:30 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:31 PM]] Step 1300: train 0.696543 lr: 6.872e-05
+[[11/30/2020 12:38:33 PM]] Step 1320: train 0.697433 lr: 6.750e-05
+[[11/30/2020 12:38:34 PM]] Snapshot loss 0.693655
+[[11/30/2020 12:38:34 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:36 PM]] Step 1340: train 0.696788 lr: 6.629e-05
+[[11/30/2020 12:38:37 PM]] Step 1360: train 0.696516 lr: 6.508e-05
+[[11/30/2020 12:38:39 PM]] Snapshot loss 0.693001
+[[11/30/2020 12:38:39 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:40 PM]] Step 1380: train 0.696366 lr: 6.387e-05
+[[11/30/2020 12:38:41 PM]] Step 1400: train 0.696067 lr: 6.265e-05
+[[11/30/2020 12:38:43 PM]] Snapshot loss 0.693521
+[[11/30/2020 12:38:43 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:43 PM]] ====================Epoch 7====================
+[[11/30/2020 12:38:44 PM]] Step 1420: train 0.696099 lr: 6.144e-05
+[[11/30/2020 12:38:45 PM]] Step 1440: train 0.696337 lr: 6.023e-05
+[[11/30/2020 12:38:47 PM]] Snapshot loss 0.692503
+[[11/30/2020 12:38:47 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:48 PM]] Step 1460: train 0.696302 lr: 5.902e-05
+[[11/30/2020 12:38:50 PM]] Step 1480: train 0.695677 lr: 5.780e-05
+[[11/30/2020 12:38:51 PM]] Snapshot loss 0.692859
+[[11/30/2020 12:38:51 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:53 PM]] Step 1500: train 0.695234 lr: 5.659e-05
+[[11/30/2020 12:38:54 PM]] Step 1520: train 0.694178 lr: 5.538e-05
+[[11/30/2020 12:38:56 PM]] Snapshot loss 0.696131
+[[11/30/2020 12:38:56 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:38:57 PM]] Step 1540: train 0.693761 lr: 5.417e-05
+[[11/30/2020 12:38:58 PM]] Step 1560: train 0.694783 lr: 5.295e-05
+[[11/30/2020 12:39:00 PM]] Snapshot loss 0.693075
+[[11/30/2020 12:39:00 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:01 PM]] Step 1580: train 0.694769 lr: 5.174e-05
+[[11/30/2020 12:39:02 PM]] Step 1600: train 0.695041 lr: 5.053e-05
+[[11/30/2020 12:39:04 PM]] Snapshot loss 0.693780
+[[11/30/2020 12:39:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:05 PM]] Step 1620: train 0.694289 lr: 4.932e-05
+[[11/30/2020 12:39:06 PM]] Step 1640: train 0.694367 lr: 4.810e-05
+[[11/30/2020 12:39:08 PM]] Snapshot loss 0.693706
+[[11/30/2020 12:39:08 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:09 PM]] ====================Epoch 8====================
+[[11/30/2020 12:39:10 PM]] Step 1660: train 0.694444 lr: 4.689e-05
+[[11/30/2020 12:39:11 PM]] Step 1680: train 0.694302 lr: 4.568e-05
+[[11/30/2020 12:39:13 PM]] Snapshot loss 0.692857
+[[11/30/2020 12:39:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:14 PM]] Step 1700: train 0.694543 lr: 4.447e-05
+[[11/30/2020 12:39:15 PM]] Step 1720: train 0.694610 lr: 4.325e-05
+[[11/30/2020 12:39:17 PM]] Snapshot loss 0.692895
+[[11/30/2020 12:39:17 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:18 PM]] Step 1740: train 0.694408 lr: 4.204e-05
+[[11/30/2020 12:39:19 PM]] Step 1760: train 0.694323 lr: 4.083e-05
+[[11/30/2020 12:39:21 PM]] Snapshot loss 0.693491
+[[11/30/2020 12:39:21 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:22 PM]] Step 1780: train 0.694111 lr: 3.962e-05
+[[11/30/2020 12:39:23 PM]] Step 1800: train 0.694310 lr: 3.840e-05
+[[11/30/2020 12:39:25 PM]] Snapshot loss 0.692863
+[[11/30/2020 12:39:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:26 PM]] Step 1820: train 0.694847 lr: 3.719e-05
+[[11/30/2020 12:39:28 PM]] Step 1840: train 0.694730 lr: 3.598e-05
+[[11/30/2020 12:39:29 PM]] Snapshot loss 0.693182
+[[11/30/2020 12:39:29 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:31 PM]] Step 1860: train 0.694204 lr: 3.477e-05
+[[11/30/2020 12:39:32 PM]] Step 1880: train 0.694005 lr: 3.355e-05
+[[11/30/2020 12:39:33 PM]] Snapshot loss 0.692696
+[[11/30/2020 12:39:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:34 PM]] ====================Epoch 9====================
+[[11/30/2020 12:39:35 PM]] Step 1900: train 0.694211 lr: 3.234e-05
+[[11/30/2020 12:39:36 PM]] Step 1920: train 0.693697 lr: 3.113e-05
+[[11/30/2020 12:39:38 PM]] Snapshot loss 0.694068
+[[11/30/2020 12:39:38 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:39 PM]] Step 1940: train 0.693620 lr: 2.992e-05
+[[11/30/2020 12:39:40 PM]] Step 1960: train 0.692829 lr: 2.870e-05
+[[11/30/2020 12:39:42 PM]] Snapshot loss 0.695392
+[[11/30/2020 12:39:42 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:43 PM]] Step 1980: train 0.693166 lr: 2.749e-05
+[[11/30/2020 12:39:45 PM]] Step 2000: train 0.693451 lr: 2.628e-05
+[[11/30/2020 12:39:46 PM]] Snapshot loss 0.692788
+[[11/30/2020 12:39:46 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:48 PM]] Step 2020: train 0.693636 lr: 2.507e-05
+[[11/30/2020 12:39:49 PM]] Step 2040: train 0.693580 lr: 2.385e-05
+[[11/30/2020 12:39:51 PM]] Snapshot loss 0.692792
+[[11/30/2020 12:39:51 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:52 PM]] Step 2060: train 0.693824 lr: 2.264e-05
+[[11/30/2020 12:39:53 PM]] Step 2080: train 0.693806 lr: 2.143e-05
+[[11/30/2020 12:39:55 PM]] Snapshot loss 0.692729
+[[11/30/2020 12:39:55 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:39:56 PM]] Step 2100: train 0.693413 lr: 2.022e-05
+[[11/30/2020 12:39:57 PM]] ====================Epoch 10====================
+[[11/30/2020 12:39:57 PM]] Step 2120: train 0.693601 lr: 1.900e-05
+[[11/30/2020 12:39:59 PM]] Snapshot loss 0.693600
+[[11/30/2020 12:39:59 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:00 PM]] Step 2140: train 0.693369 lr: 1.779e-05
+[[11/30/2020 12:40:02 PM]] Step 2160: train 0.693447 lr: 1.658e-05
+[[11/30/2020 12:40:03 PM]] Snapshot loss 0.694246
+[[11/30/2020 12:40:03 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:05 PM]] Step 2180: train 0.693279 lr: 1.537e-05
+[[11/30/2020 12:40:06 PM]] Step 2200: train 0.693276 lr: 1.415e-05
+[[11/30/2020 12:40:08 PM]] Snapshot loss 0.693427
+[[11/30/2020 12:40:08 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:09 PM]] Step 2220: train 0.693731 lr: 1.294e-05
+[[11/30/2020 12:40:10 PM]] Step 2240: train 0.693871 lr: 1.173e-05
+[[11/30/2020 12:40:12 PM]] Snapshot loss 0.693259
+[[11/30/2020 12:40:12 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:13 PM]] Step 2260: train 0.694478 lr: 1.052e-05
+[[11/30/2020 12:40:14 PM]] Step 2280: train 0.694123 lr: 9.304e-06
+[[11/30/2020 12:40:16 PM]] Snapshot loss 0.692843
+[[11/30/2020 12:40:16 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:17 PM]] Step 2300: train 0.693650 lr: 8.092e-06
+[[11/30/2020 12:40:18 PM]] Step 2320: train 0.693360 lr: 6.879e-06
+[[11/30/2020 12:40:20 PM]] Snapshot loss 0.692485
+[[11/30/2020 12:40:20 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:21 PM]] Step 2340: train 0.693375 lr: 5.667e-06
+[[11/30/2020 12:40:22 PM]] ====================Epoch 11====================
+[[11/30/2020 12:40:23 PM]] Step 2360: train 0.693325 lr: 6.092e-06
+[[11/30/2020 12:40:25 PM]] Snapshot loss 0.692424
+[[11/30/2020 12:40:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:26 PM]] Step 2380: train 0.693433 lr: 8.519e-06
+[[11/30/2020 12:40:27 PM]] Step 2400: train 0.693499 lr: 1.095e-05
+[[11/30/2020 12:40:29 PM]] Snapshot loss 0.692315
+[[11/30/2020 12:40:29 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:30 PM]] Step 2420: train 0.693355 lr: 1.337e-05
+[[11/30/2020 12:40:31 PM]] Step 2440: train 0.693750 lr: 1.580e-05
+[[11/30/2020 12:40:33 PM]] Snapshot loss 0.692190
+[[11/30/2020 12:40:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:34 PM]] Step 2460: train 0.693497 lr: 1.822e-05
+[[11/30/2020 12:40:35 PM]] Step 2480: train 0.693760 lr: 2.065e-05
+[[11/30/2020 12:40:37 PM]] Snapshot loss 0.692165
+[[11/30/2020 12:40:37 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:38 PM]] Step 2500: train 0.693765 lr: 2.308e-05
+[[11/30/2020 12:40:40 PM]] Step 2520: train 0.693929 lr: 2.550e-05
+[[11/30/2020 12:40:41 PM]] Snapshot loss 0.692837
+[[11/30/2020 12:40:41 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:42 PM]] Step 2540: train 0.693828 lr: 2.793e-05
+[[11/30/2020 12:40:44 PM]] Step 2560: train 0.693711 lr: 3.036e-05
+[[11/30/2020 12:40:45 PM]] Snapshot loss 0.692538
+[[11/30/2020 12:40:45 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:47 PM]] Step 2580: train 0.693564 lr: 3.278e-05
+[[11/30/2020 12:40:47 PM]] ====================Epoch 12====================
+[[11/30/2020 12:40:48 PM]] Step 2600: train 0.693613 lr: 3.521e-05
+[[11/30/2020 12:40:50 PM]] Snapshot loss 0.692517
+[[11/30/2020 12:40:50 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:51 PM]] Step 2620: train 0.693539 lr: 3.764e-05
+[[11/30/2020 12:40:52 PM]] Step 2640: train 0.693551 lr: 4.006e-05
+[[11/30/2020 12:40:54 PM]] Snapshot loss 0.695831
+[[11/30/2020 12:40:54 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:55 PM]] Step 2660: train 0.694112 lr: 4.249e-05
+[[11/30/2020 12:40:57 PM]] Step 2680: train 0.694076 lr: 4.492e-05
+[[11/30/2020 12:40:58 PM]] Snapshot loss 0.692334
+[[11/30/2020 12:40:58 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:40:59 PM]] Step 2700: train 0.694486 lr: 4.734e-05
+[[11/30/2020 12:41:01 PM]] Step 2720: train 0.694383 lr: 4.977e-05
+[[11/30/2020 12:41:02 PM]] Snapshot loss 0.692583
+[[11/30/2020 12:41:02 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:04 PM]] Step 2740: train 0.694537 lr: 5.220e-05
+[[11/30/2020 12:41:05 PM]] Step 2760: train 0.694947 lr: 5.462e-05
+[[11/30/2020 12:41:07 PM]] Snapshot loss 0.692815
+[[11/30/2020 12:41:07 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:08 PM]] Step 2780: train 0.695137 lr: 5.705e-05
+[[11/30/2020 12:41:09 PM]] Step 2800: train 0.695209 lr: 5.948e-05
+[[11/30/2020 12:41:11 PM]] Snapshot loss 0.692714
+[[11/30/2020 12:41:11 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:12 PM]] Step 2820: train 0.695332 lr: 6.190e-05
+[[11/30/2020 12:41:12 PM]] ====================Epoch 13====================
+[[11/30/2020 12:41:14 PM]] Step 2840: train 0.695456 lr: 6.433e-05
+[[11/30/2020 12:41:15 PM]] Snapshot loss 0.692376
+[[11/30/2020 12:41:15 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:17 PM]] Step 2860: train 0.695223 lr: 6.676e-05
+[[11/30/2020 12:41:18 PM]] Step 2880: train 0.695150 lr: 6.918e-05
+[[11/30/2020 12:41:20 PM]] Snapshot loss 0.694721
+[[11/30/2020 12:41:20 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:21 PM]] Step 2900: train 0.694717 lr: 7.161e-05
+[[11/30/2020 12:41:22 PM]] Step 2920: train 0.695210 lr: 7.404e-05
+[[11/30/2020 12:41:24 PM]] Snapshot loss 0.691627
+[[11/30/2020 12:41:24 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:25 PM]] Step 2940: train 0.694902 lr: 7.646e-05
+[[11/30/2020 12:41:26 PM]] Step 2960: train 0.694823 lr: 7.889e-05
+[[11/30/2020 12:41:28 PM]] Snapshot loss 0.692187
+[[11/30/2020 12:41:28 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:29 PM]] Step 2980: train 0.695239 lr: 8.132e-05
+[[11/30/2020 12:41:30 PM]] Step 3000: train 0.695412 lr: 8.374e-05
+[[11/30/2020 12:41:32 PM]] Snapshot loss 0.694294
+[[11/30/2020 12:41:32 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:33 PM]] Step 3020: train 0.696753 lr: 8.617e-05
+[[11/30/2020 12:41:35 PM]] Step 3040: train 0.696101 lr: 8.860e-05
+[[11/30/2020 12:41:36 PM]] Snapshot loss 0.695486
+[[11/30/2020 12:41:36 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:37 PM]] ====================Epoch 14====================
+[[11/30/2020 12:41:38 PM]] Step 3060: train 0.696519 lr: 9.102e-05
+[[11/30/2020 12:41:39 PM]] Step 3080: train 0.696593 lr: 9.345e-05
+[[11/30/2020 12:41:41 PM]] Snapshot loss 0.694521
+[[11/30/2020 12:41:41 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:42 PM]] Step 3100: train 0.696516 lr: 9.587e-05
+[[11/30/2020 12:41:43 PM]] Step 3120: train 0.696121 lr: 9.830e-05
+[[11/30/2020 12:41:45 PM]] Snapshot loss 0.694323
+[[11/30/2020 12:41:45 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:46 PM]] Step 3140: train 0.696555 lr: 9.964e-05
+[[11/30/2020 12:41:47 PM]] Step 3160: train 0.696970 lr: 9.842e-05
+[[11/30/2020 12:41:49 PM]] Snapshot loss 0.692865
+[[11/30/2020 12:41:49 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:50 PM]] Step 3180: train 0.697177 lr: 9.721e-05
+[[11/30/2020 12:41:52 PM]] Step 3200: train 0.697661 lr: 9.600e-05
+[[11/30/2020 12:41:53 PM]] Snapshot loss 0.692843
+[[11/30/2020 12:41:53 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:55 PM]] Step 3220: train 0.697207 lr: 9.479e-05
+[[11/30/2020 12:41:56 PM]] Step 3240: train 0.697624 lr: 9.357e-05
+[[11/30/2020 12:41:58 PM]] Snapshot loss 0.693572
+[[11/30/2020 12:41:58 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:41:59 PM]] Step 3260: train 0.697157 lr: 9.236e-05
+[[11/30/2020 12:42:00 PM]] Step 3280: train 0.696544 lr: 9.115e-05
+[[11/30/2020 12:42:02 PM]] Snapshot loss 0.694060
+[[11/30/2020 12:42:02 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:02 PM]] ====================Epoch 15====================
+[[11/30/2020 12:42:03 PM]] Step 3300: train 0.696155 lr: 8.994e-05
+[[11/30/2020 12:42:04 PM]] Step 3320: train 0.694815 lr: 8.872e-05
+[[11/30/2020 12:42:06 PM]] Snapshot loss 0.693684
+[[11/30/2020 12:42:06 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:07 PM]] Step 3340: train 0.695542 lr: 8.751e-05
+[[11/30/2020 12:42:09 PM]] Step 3360: train 0.694511 lr: 8.630e-05
+[[11/30/2020 12:42:10 PM]] Snapshot loss 0.693829
+[[11/30/2020 12:42:10 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:12 PM]] Step 3380: train 0.694770 lr: 8.509e-05
+[[11/30/2020 12:42:13 PM]] Step 3400: train 0.694713 lr: 8.387e-05
+[[11/30/2020 12:42:15 PM]] Snapshot loss 0.692870
+[[11/30/2020 12:42:15 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:16 PM]] Step 3420: train 0.694939 lr: 8.266e-05
+[[11/30/2020 12:42:17 PM]] Step 3440: train 0.694515 lr: 8.145e-05
+[[11/30/2020 12:42:19 PM]] Snapshot loss 0.692885
+[[11/30/2020 12:42:19 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:20 PM]] Step 3460: train 0.694447 lr: 8.024e-05
+[[11/30/2020 12:42:21 PM]] Step 3480: train 0.694502 lr: 7.902e-05
+[[11/30/2020 12:42:23 PM]] Snapshot loss 0.693456
+[[11/30/2020 12:42:23 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:24 PM]] Step 3500: train 0.694164 lr: 7.781e-05
+[[11/30/2020 12:42:25 PM]] Step 3520: train 0.694566 lr: 7.660e-05
+[[11/30/2020 12:42:27 PM]] Snapshot loss 0.692729
+[[11/30/2020 12:42:27 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:28 PM]] ====================Epoch 16====================
+[[11/30/2020 12:42:29 PM]] Step 3540: train 0.694528 lr: 7.539e-05
+[[11/30/2020 12:42:30 PM]] Step 3560: train 0.694393 lr: 7.417e-05
+[[11/30/2020 12:42:32 PM]] Snapshot loss 0.692593
+[[11/30/2020 12:42:32 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:33 PM]] Step 3580: train 0.694510 lr: 7.296e-05
+[[11/30/2020 12:42:34 PM]] Step 3600: train 0.694446 lr: 7.175e-05
+[[11/30/2020 12:42:36 PM]] Snapshot loss 0.693045
+[[11/30/2020 12:42:36 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:37 PM]] Step 3620: train 0.694553 lr: 7.054e-05
+[[11/30/2020 12:42:38 PM]] Step 3640: train 0.694363 lr: 6.932e-05
+[[11/30/2020 12:42:40 PM]] Snapshot loss 0.693419
+[[11/30/2020 12:42:40 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:41 PM]] Step 3660: train 0.694399 lr: 6.811e-05
+[[11/30/2020 12:42:42 PM]] Step 3680: train 0.693936 lr: 6.690e-05
+[[11/30/2020 12:42:44 PM]] Snapshot loss 0.692816
+[[11/30/2020 12:42:44 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:45 PM]] Step 3700: train 0.694127 lr: 6.569e-05
+[[11/30/2020 12:42:47 PM]] Step 3720: train 0.693829 lr: 6.447e-05
+[[11/30/2020 12:42:48 PM]] Snapshot loss 0.693978
+[[11/30/2020 12:42:48 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:50 PM]] Step 3740: train 0.694079 lr: 6.326e-05
+[[11/30/2020 12:42:51 PM]] Step 3760: train 0.693916 lr: 6.205e-05
+[[11/30/2020 12:42:52 PM]] Snapshot loss 0.692615
+[[11/30/2020 12:42:52 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:53 PM]] ====================Epoch 17====================
+[[11/30/2020 12:42:54 PM]] Step 3780: train 0.693997 lr: 6.084e-05
+[[11/30/2020 12:42:55 PM]] Step 3800: train 0.694396 lr: 5.962e-05
+[[11/30/2020 12:42:57 PM]] Snapshot loss 0.692850
+[[11/30/2020 12:42:57 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:42:58 PM]] Step 3820: train 0.694177 lr: 5.841e-05
+[[11/30/2020 12:42:59 PM]] Step 3840: train 0.694096 lr: 5.720e-05
+[[11/30/2020 12:43:01 PM]] Snapshot loss 0.692645
+[[11/30/2020 12:43:01 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:02 PM]] Step 3860: train 0.694123 lr: 5.599e-05
+[[11/30/2020 12:43:04 PM]] Step 3880: train 0.693993 lr: 5.477e-05
+[[11/30/2020 12:43:05 PM]] Snapshot loss 0.693708
+[[11/30/2020 12:43:05 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:07 PM]] Step 3900: train 0.694414 lr: 5.356e-05
+[[11/30/2020 12:43:08 PM]] Step 3920: train 0.694433 lr: 5.235e-05
+[[11/30/2020 12:43:09 PM]] Snapshot loss 0.692560
+[[11/30/2020 12:43:09 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:11 PM]] Step 3940: train 0.694429 lr: 5.114e-05
+[[11/30/2020 12:43:12 PM]] Step 3960: train 0.694676 lr: 4.992e-05
+[[11/30/2020 12:43:14 PM]] Snapshot loss 0.692670
+[[11/30/2020 12:43:14 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:15 PM]] Step 3980: train 0.694561 lr: 4.871e-05
+[[11/30/2020 12:43:16 PM]] ====================Epoch 18====================
+[[11/30/2020 12:43:16 PM]] Step 4000: train 0.694499 lr: 4.750e-05
+[[11/30/2020 12:43:18 PM]] Snapshot loss 0.692904
+[[11/30/2020 12:43:18 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:19 PM]] Step 4020: train 0.694529 lr: 4.629e-05
+[[11/30/2020 12:43:21 PM]] Step 4040: train 0.694234 lr: 4.507e-05
+[[11/30/2020 12:43:22 PM]] Snapshot loss 0.693039
+[[11/30/2020 12:43:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:24 PM]] Step 4060: train 0.694214 lr: 4.386e-05
+[[11/30/2020 12:43:25 PM]] Step 4080: train 0.693638 lr: 4.265e-05
+[[11/30/2020 12:43:27 PM]] Snapshot loss 0.693275
+[[11/30/2020 12:43:27 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:28 PM]] Step 4100: train 0.692803 lr: 4.144e-05
+[[11/30/2020 12:43:29 PM]] Step 4120: train 0.692251 lr: 4.022e-05
+[[11/30/2020 12:43:31 PM]] Snapshot loss 0.697039
+[[11/30/2020 12:43:31 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:32 PM]] Step 4140: train 0.693051 lr: 3.901e-05
+[[11/30/2020 12:43:33 PM]] Step 4160: train 0.693551 lr: 3.780e-05
+[[11/30/2020 12:43:35 PM]] Snapshot loss 0.692894
+[[11/30/2020 12:43:35 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:36 PM]] Step 4180: train 0.693725 lr: 3.659e-05
+[[11/30/2020 12:43:37 PM]] Step 4200: train 0.693286 lr: 3.537e-05
+[[11/30/2020 12:43:39 PM]] Snapshot loss 0.692482
+[[11/30/2020 12:43:39 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:40 PM]] Step 4220: train 0.693146 lr: 3.416e-05
+[[11/30/2020 12:43:41 PM]] ====================Epoch 19====================
+[[11/30/2020 12:43:42 PM]] Step 4240: train 0.692701 lr: 3.295e-05
+[[11/30/2020 12:43:44 PM]] Snapshot loss 0.694553
+[[11/30/2020 12:43:44 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:45 PM]] Step 4260: train 0.691862 lr: 3.174e-05
+[[11/30/2020 12:43:46 PM]] Step 4280: train 0.692185 lr: 3.052e-05
+[[11/30/2020 12:43:48 PM]] Snapshot loss 0.696240
+[[11/30/2020 12:43:48 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:49 PM]] Step 4300: train 0.693106 lr: 2.931e-05
+[[11/30/2020 12:43:50 PM]] Step 4320: train 0.693485 lr: 2.810e-05
+[[11/30/2020 12:43:52 PM]] Snapshot loss 0.692464
+[[11/30/2020 12:43:52 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:53 PM]] Step 4340: train 0.693341 lr: 2.689e-05
+[[11/30/2020 12:43:54 PM]] Step 4360: train 0.693420 lr: 2.567e-05
+[[11/30/2020 12:43:56 PM]] Snapshot loss 0.692559
+[[11/30/2020 12:43:56 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:43:57 PM]] Step 4380: train 0.693888 lr: 2.446e-05
+[[11/30/2020 12:43:59 PM]] Step 4400: train 0.694464 lr: 2.325e-05
+[[11/30/2020 12:44:00 PM]] Snapshot loss 0.692460
+[[11/30/2020 12:44:00 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:01 PM]] Step 4420: train 0.694843 lr: 2.204e-05
+[[11/30/2020 12:44:03 PM]] Step 4440: train 0.694159 lr: 2.082e-05
+[[11/30/2020 12:44:04 PM]] Snapshot loss 0.692377
+[[11/30/2020 12:44:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:06 PM]] Step 4460: train 0.693712 lr: 1.961e-05
+[[11/30/2020 12:44:06 PM]] ====================Epoch 20====================
+[[11/30/2020 12:44:07 PM]] Step 4480: train 0.693736 lr: 1.840e-05
+[[11/30/2020 12:44:09 PM]] Snapshot loss 0.692462
+[[11/30/2020 12:44:09 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:10 PM]] Step 4500: train 0.693715 lr: 1.719e-05
+[[11/30/2020 12:44:11 PM]] Step 4520: train 0.693683 lr: 1.597e-05
+[[11/30/2020 12:44:13 PM]] Snapshot loss 0.692602
+[[11/30/2020 12:44:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:14 PM]] Step 4540: train 0.693900 lr: 1.476e-05
+[[11/30/2020 12:44:16 PM]] Step 4560: train 0.694638 lr: 1.355e-05
+[[11/30/2020 12:44:17 PM]] Snapshot loss 0.692947
+[[11/30/2020 12:44:17 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:19 PM]] Step 4580: train 0.694409 lr: 1.234e-05
+[[11/30/2020 12:44:20 PM]] Step 4600: train 0.693763 lr: 1.112e-05
+[[11/30/2020 12:44:22 PM]] Snapshot loss 0.692462
+[[11/30/2020 12:44:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:23 PM]] Step 4620: train 0.693577 lr: 9.911e-06
+[[11/30/2020 12:44:24 PM]] Step 4640: train 0.693503 lr: 8.698e-06
+[[11/30/2020 12:44:26 PM]] Snapshot loss 0.692417
+[[11/30/2020 12:44:26 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:27 PM]] Step 4660: train 0.693470 lr: 7.486e-06
+[[11/30/2020 12:44:28 PM]] Step 4680: train 0.693525 lr: 6.273e-06
+[[11/30/2020 12:44:30 PM]] Snapshot loss 0.692396
+[[11/30/2020 12:44:30 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:31 PM]] Step 4700: train 0.693554 lr: 5.061e-06
+[[11/30/2020 12:44:31 PM]] ====================Epoch 21====================
+[[11/30/2020 12:44:33 PM]] Step 4720: train 0.693528 lr: 7.305e-06
+[[11/30/2020 12:44:34 PM]] Snapshot loss 0.692380
+[[11/30/2020 12:44:34 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:36 PM]] Step 4740: train 0.693396 lr: 9.732e-06
+[[11/30/2020 12:44:37 PM]] Step 4760: train 0.693383 lr: 1.216e-05
+[[11/30/2020 12:44:39 PM]] Snapshot loss 0.692387
+[[11/30/2020 12:44:39 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:40 PM]] Step 4780: train 0.693287 lr: 1.458e-05
+[[11/30/2020 12:44:41 PM]] Step 4800: train 0.693292 lr: 1.701e-05
+[[11/30/2020 12:44:43 PM]] Snapshot loss 0.692505
+[[11/30/2020 12:44:43 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:44 PM]] Step 4820: train 0.693559 lr: 1.944e-05
+[[11/30/2020 12:44:45 PM]] Step 4840: train 0.693670 lr: 2.186e-05
+[[11/30/2020 12:44:47 PM]] Snapshot loss 0.692442
+[[11/30/2020 12:44:47 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:48 PM]] Step 4860: train 0.693664 lr: 2.429e-05
+[[11/30/2020 12:44:49 PM]] Step 4880: train 0.693589 lr: 2.672e-05
+[[11/30/2020 12:44:51 PM]] Snapshot loss 0.692337
+[[11/30/2020 12:44:51 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:52 PM]] Step 4900: train 0.693158 lr: 2.914e-05
+[[11/30/2020 12:44:54 PM]] Step 4920: train 0.693374 lr: 3.157e-05
+[[11/30/2020 12:44:55 PM]] Snapshot loss 0.692446
+[[11/30/2020 12:44:55 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:44:56 PM]] ====================Epoch 22====================
+[[11/30/2020 12:44:57 PM]] Step 4940: train 0.693576 lr: 3.400e-05
+[[11/30/2020 12:44:58 PM]] Step 4960: train 0.693607 lr: 3.642e-05
+[[11/30/2020 12:45:00 PM]] Snapshot loss 0.692475
+[[11/30/2020 12:45:00 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:01 PM]] Step 4980: train 0.693516 lr: 3.885e-05
+[[11/30/2020 12:45:02 PM]] Step 5000: train 0.693558 lr: 4.128e-05
+[[11/30/2020 12:45:04 PM]] Snapshot loss 0.692506
+[[11/30/2020 12:45:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:05 PM]] Step 5020: train 0.693563 lr: 4.370e-05
+[[11/30/2020 12:45:07 PM]] Step 5040: train 0.693621 lr: 4.613e-05
+[[11/30/2020 12:45:08 PM]] Snapshot loss 0.692478
+[[11/30/2020 12:45:08 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:10 PM]] Step 5060: train 0.693523 lr: 4.856e-05
+[[11/30/2020 12:45:11 PM]] Step 5080: train 0.693696 lr: 5.098e-05
+[[11/30/2020 12:45:13 PM]] Snapshot loss 0.692853
+[[11/30/2020 12:45:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:14 PM]] Step 5100: train 0.693745 lr: 5.341e-05
+[[11/30/2020 12:45:15 PM]] Step 5120: train 0.693912 lr: 5.584e-05
+[[11/30/2020 12:45:17 PM]] Snapshot loss 0.692646
+[[11/30/2020 12:45:17 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:18 PM]] Step 5140: train 0.694015 lr: 5.826e-05
+[[11/30/2020 12:45:19 PM]] Step 5160: train 0.694044 lr: 6.069e-05
+[[11/30/2020 12:45:21 PM]] Snapshot loss 0.692492
+[[11/30/2020 12:45:21 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:22 PM]] ====================Epoch 23====================
+[[11/30/2020 12:45:22 PM]] Step 5180: train 0.693871 lr: 6.312e-05
+[[11/30/2020 12:45:24 PM]] Step 5200: train 0.694320 lr: 6.554e-05
+[[11/30/2020 12:45:25 PM]] Snapshot loss 0.692815
+[[11/30/2020 12:45:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:27 PM]] Step 5220: train 0.694116 lr: 6.797e-05
+[[11/30/2020 12:45:28 PM]] Step 5240: train 0.693876 lr: 7.040e-05
+[[11/30/2020 12:45:30 PM]] Snapshot loss 0.693787
+[[11/30/2020 12:45:30 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:31 PM]] Step 5260: train 0.693825 lr: 7.282e-05
+[[11/30/2020 12:45:32 PM]] Step 5280: train 0.693854 lr: 7.525e-05
+[[11/30/2020 12:45:34 PM]] Snapshot loss 0.693056
+[[11/30/2020 12:45:34 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:35 PM]] Step 5300: train 0.694013 lr: 7.768e-05
+[[11/30/2020 12:45:36 PM]] Step 5320: train 0.694054 lr: 8.010e-05
+[[11/30/2020 12:45:38 PM]] Snapshot loss 0.692585
+[[11/30/2020 12:45:38 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:39 PM]] Step 5340: train 0.694149 lr: 8.253e-05
+[[11/30/2020 12:45:40 PM]] Step 5360: train 0.694281 lr: 8.496e-05
+[[11/30/2020 12:45:42 PM]] Snapshot loss 0.693263
+[[11/30/2020 12:45:42 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:43 PM]] Step 5380: train 0.694675 lr: 8.738e-05
+[[11/30/2020 12:45:45 PM]] Step 5400: train 0.694468 lr: 8.981e-05
+[[11/30/2020 12:45:46 PM]] Snapshot loss 0.693779
+[[11/30/2020 12:45:46 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:47 PM]] ====================Epoch 24====================
+[[11/30/2020 12:45:48 PM]] Step 5420: train 0.694109 lr: 9.223e-05
+[[11/30/2020 12:45:49 PM]] Step 5440: train 0.694388 lr: 9.466e-05
+[[11/30/2020 12:45:51 PM]] Snapshot loss 0.696018
+[[11/30/2020 12:45:51 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:52 PM]] Step 5460: train 0.694333 lr: 9.709e-05
+[[11/30/2020 12:45:53 PM]] Step 5480: train 0.694695 lr: 9.951e-05
+[[11/30/2020 12:45:55 PM]] Snapshot loss 0.693044
+[[11/30/2020 12:45:55 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:45:56 PM]] Step 5500: train 0.694295 lr: 9.903e-05
+[[11/30/2020 12:45:57 PM]] Step 5520: train 0.694162 lr: 9.782e-05
+[[11/30/2020 12:45:59 PM]] Snapshot loss 0.696118
+[[11/30/2020 12:45:59 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:00 PM]] Step 5540: train 0.694485 lr: 9.660e-05
+[[11/30/2020 12:46:02 PM]] Step 5560: train 0.694802 lr: 9.539e-05
+[[11/30/2020 12:46:03 PM]] Snapshot loss 0.692736
+[[11/30/2020 12:46:03 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:05 PM]] Step 5580: train 0.694704 lr: 9.418e-05
+[[11/30/2020 12:46:06 PM]] Step 5600: train 0.694699 lr: 9.297e-05
+[[11/30/2020 12:46:08 PM]] Snapshot loss 0.692993
+[[11/30/2020 12:46:08 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:09 PM]] Step 5620: train 0.694529 lr: 9.175e-05
+[[11/30/2020 12:46:10 PM]] Step 5640: train 0.695049 lr: 9.054e-05
+[[11/30/2020 12:46:12 PM]] Snapshot loss 0.692998
+[[11/30/2020 12:46:12 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:12 PM]] ====================Epoch 25====================
+[[11/30/2020 12:46:13 PM]] Step 5660: train 0.694815 lr: 8.933e-05
+[[11/30/2020 12:46:15 PM]] Step 5680: train 0.694884 lr: 8.812e-05
+[[11/30/2020 12:46:16 PM]] Snapshot loss 0.692736
+[[11/30/2020 12:46:16 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:18 PM]] Step 5700: train 0.695020 lr: 8.690e-05
+[[11/30/2020 12:46:19 PM]] Step 5720: train 0.695143 lr: 8.569e-05
+[[11/30/2020 12:46:21 PM]] Snapshot loss 0.692658
+[[11/30/2020 12:46:21 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:22 PM]] Step 5740: train 0.694652 lr: 8.448e-05
+[[11/30/2020 12:46:23 PM]] Step 5760: train 0.695210 lr: 8.327e-05
+[[11/30/2020 12:46:25 PM]] Snapshot loss 0.692953
+[[11/30/2020 12:46:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:26 PM]] Step 5780: train 0.694942 lr: 8.205e-05
+[[11/30/2020 12:46:27 PM]] Step 5800: train 0.694974 lr: 8.084e-05
+[[11/30/2020 12:46:29 PM]] Snapshot loss 0.692804
+[[11/30/2020 12:46:29 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:30 PM]] Step 5820: train 0.695275 lr: 7.963e-05
+[[11/30/2020 12:46:31 PM]] Step 5840: train 0.695109 lr: 7.842e-05
+[[11/30/2020 12:46:33 PM]] Snapshot loss 0.692874
+[[11/30/2020 12:46:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:34 PM]] Step 5860: train 0.694905 lr: 7.720e-05
+[[11/30/2020 12:46:35 PM]] ====================Epoch 26====================
+[[11/30/2020 12:46:36 PM]] Step 5880: train 0.694993 lr: 7.599e-05
+[[11/30/2020 12:46:38 PM]] Snapshot loss 0.692852
+[[11/30/2020 12:46:38 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:39 PM]] Step 5900: train 0.694793 lr: 7.478e-05
+[[11/30/2020 12:46:40 PM]] Step 5920: train 0.695096 lr: 7.357e-05
+[[11/30/2020 12:46:42 PM]] Snapshot loss 0.692713
+[[11/30/2020 12:46:42 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:43 PM]] Step 5940: train 0.694490 lr: 7.235e-05
+[[11/30/2020 12:46:44 PM]] Step 5960: train 0.694708 lr: 7.114e-05
+[[11/30/2020 12:46:46 PM]] Snapshot loss 0.692841
+[[11/30/2020 12:46:46 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:47 PM]] Step 5980: train 0.694092 lr: 6.993e-05
+[[11/30/2020 12:46:48 PM]] Step 6000: train 0.694294 lr: 6.872e-05
+[[11/30/2020 12:46:50 PM]] Snapshot loss 0.692788
+[[11/30/2020 12:46:50 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:51 PM]] Step 6020: train 0.694178 lr: 6.750e-05
+[[11/30/2020 12:46:53 PM]] Step 6040: train 0.694489 lr: 6.629e-05
+[[11/30/2020 12:46:54 PM]] Snapshot loss 0.692950
+[[11/30/2020 12:46:54 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:46:56 PM]] Step 6060: train 0.694064 lr: 6.508e-05
+[[11/30/2020 12:46:57 PM]] Step 6080: train 0.694037 lr: 6.387e-05
+[[11/30/2020 12:46:59 PM]] Snapshot loss 0.692955
+[[11/30/2020 12:46:59 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:00 PM]] Step 6100: train 0.694129 lr: 6.265e-05
+[[11/30/2020 12:47:00 PM]] ====================Epoch 27====================
+[[11/30/2020 12:47:01 PM]] Step 6120: train 0.694045 lr: 6.144e-05
+[[11/30/2020 12:47:03 PM]] Snapshot loss 0.692718
+[[11/30/2020 12:47:03 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:04 PM]] Step 6140: train 0.694005 lr: 6.023e-05
+[[11/30/2020 12:47:05 PM]] Step 6160: train 0.694019 lr: 5.902e-05
+[[11/30/2020 12:47:07 PM]] Snapshot loss 0.692657
+[[11/30/2020 12:47:07 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:08 PM]] Step 6180: train 0.693973 lr: 5.780e-05
+[[11/30/2020 12:47:10 PM]] Step 6200: train 0.693989 lr: 5.659e-05
+[[11/30/2020 12:47:11 PM]] Snapshot loss 0.692638
+[[11/30/2020 12:47:11 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:13 PM]] Step 6220: train 0.693763 lr: 5.538e-05
+[[11/30/2020 12:47:14 PM]] Step 6240: train 0.693317 lr: 5.417e-05
+[[11/30/2020 12:47:16 PM]] Snapshot loss 0.693632
+[[11/30/2020 12:47:16 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:17 PM]] Step 6260: train 0.692586 lr: 5.295e-05
+[[11/30/2020 12:47:18 PM]] Step 6280: train 0.693747 lr: 5.174e-05
+[[11/30/2020 12:47:20 PM]] Snapshot loss 0.693443
+[[11/30/2020 12:47:20 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:21 PM]] Step 6300: train 0.693469 lr: 5.053e-05
+[[11/30/2020 12:47:22 PM]] Step 6320: train 0.693800 lr: 4.932e-05
+[[11/30/2020 12:47:24 PM]] Snapshot loss 0.692586
+[[11/30/2020 12:47:24 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:25 PM]] Step 6340: train 0.693627 lr: 4.810e-05
+[[11/30/2020 12:47:26 PM]] ====================Epoch 28====================
+[[11/30/2020 12:47:27 PM]] Step 6360: train 0.693390 lr: 4.689e-05
+[[11/30/2020 12:47:29 PM]] Snapshot loss 0.693639
+[[11/30/2020 12:47:29 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:30 PM]] Step 6380: train 0.693554 lr: 4.568e-05
+[[11/30/2020 12:47:31 PM]] Step 6400: train 0.693507 lr: 4.447e-05
+[[11/30/2020 12:47:33 PM]] Snapshot loss 0.693011
+[[11/30/2020 12:47:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:34 PM]] Step 6420: train 0.693561 lr: 4.325e-05
+[[11/30/2020 12:47:35 PM]] Step 6440: train 0.693712 lr: 4.204e-05
+[[11/30/2020 12:47:37 PM]] Snapshot loss 0.692785
+[[11/30/2020 12:47:37 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:38 PM]] Step 6460: train 0.693750 lr: 4.083e-05
+[[11/30/2020 12:47:39 PM]] Step 6480: train 0.693667 lr: 3.962e-05
+[[11/30/2020 12:47:41 PM]] Snapshot loss 0.692567
+[[11/30/2020 12:47:41 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:42 PM]] Step 6500: train 0.693711 lr: 3.840e-05
+[[11/30/2020 12:47:43 PM]] Step 6520: train 0.693712 lr: 3.719e-05
+[[11/30/2020 12:47:45 PM]] Snapshot loss 0.692558
+[[11/30/2020 12:47:45 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:46 PM]] Step 6540: train 0.694218 lr: 3.598e-05
+[[11/30/2020 12:47:48 PM]] Step 6560: train 0.694844 lr: 3.477e-05
+[[11/30/2020 12:47:49 PM]] Snapshot loss 0.692425
+[[11/30/2020 12:47:49 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:51 PM]] Step 6580: train 0.693692 lr: 3.355e-05
+[[11/30/2020 12:47:51 PM]] ====================Epoch 29====================
+[[11/30/2020 12:47:52 PM]] Step 6600: train 0.693714 lr: 3.234e-05
+[[11/30/2020 12:47:54 PM]] Snapshot loss 0.692376
+[[11/30/2020 12:47:54 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:55 PM]] Step 6620: train 0.693352 lr: 3.113e-05
+[[11/30/2020 12:47:56 PM]] Step 6640: train 0.693489 lr: 2.992e-05
+[[11/30/2020 12:47:58 PM]] Snapshot loss 0.692378
+[[11/30/2020 12:47:58 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:47:59 PM]] Step 6660: train 0.693661 lr: 2.870e-05
+[[11/30/2020 12:48:01 PM]] Step 6680: train 0.693602 lr: 2.749e-05
+[[11/30/2020 12:48:02 PM]] Snapshot loss 0.692286
+[[11/30/2020 12:48:02 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:04 PM]] Step 6700: train 0.693515 lr: 2.628e-05
+[[11/30/2020 12:48:05 PM]] Step 6720: train 0.693309 lr: 2.507e-05
+[[11/30/2020 12:48:07 PM]] Snapshot loss 0.692472
+[[11/30/2020 12:48:07 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:08 PM]] Step 6740: train 0.693296 lr: 2.385e-05
+[[11/30/2020 12:48:09 PM]] Step 6760: train 0.693396 lr: 2.264e-05
+[[11/30/2020 12:48:11 PM]] Snapshot loss 0.692305
+[[11/30/2020 12:48:11 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:12 PM]] Step 6780: train 0.693375 lr: 2.143e-05
+[[11/30/2020 12:48:13 PM]] Step 6800: train 0.693372 lr: 2.022e-05
+[[11/30/2020 12:48:15 PM]] Snapshot loss 0.692250
+[[11/30/2020 12:48:15 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:16 PM]] ====================Epoch 30====================
+[[11/30/2020 12:48:17 PM]] Step 6820: train 0.693350 lr: 1.900e-05
+[[11/30/2020 12:48:18 PM]] Step 6840: train 0.693240 lr: 1.779e-05
+[[11/30/2020 12:48:20 PM]] Snapshot loss 0.692205
+[[11/30/2020 12:48:20 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:21 PM]] Step 6860: train 0.693261 lr: 1.658e-05
+[[11/30/2020 12:48:22 PM]] Step 6880: train 0.693337 lr: 1.537e-05
+[[11/30/2020 12:48:24 PM]] Snapshot loss 0.692240
+[[11/30/2020 12:48:24 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:25 PM]] Step 6900: train 0.693334 lr: 1.415e-05
+[[11/30/2020 12:48:26 PM]] Step 6920: train 0.693438 lr: 1.294e-05
+[[11/30/2020 12:48:28 PM]] Snapshot loss 0.692213
+[[11/30/2020 12:48:28 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:29 PM]] Step 6940: train 0.693298 lr: 1.173e-05
+[[11/30/2020 12:48:30 PM]] Step 6960: train 0.693245 lr: 1.052e-05
+[[11/30/2020 12:48:32 PM]] Snapshot loss 0.692130
+[[11/30/2020 12:48:32 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:33 PM]] Step 6980: train 0.693083 lr: 9.304e-06
+[[11/30/2020 12:48:34 PM]] Step 7000: train 0.693138 lr: 8.092e-06
+[[11/30/2020 12:48:36 PM]] Snapshot loss 0.692125
+[[11/30/2020 12:48:36 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:37 PM]] Step 7020: train 0.693195 lr: 6.879e-06
+[[11/30/2020 12:48:39 PM]] Step 7040: train 0.693085 lr: 5.667e-06
+[[11/30/2020 12:48:40 PM]] Snapshot loss 0.692098
+[[11/30/2020 12:48:40 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:41 PM]] ====================Epoch 31====================
+[[11/30/2020 12:48:42 PM]] Step 7060: train 0.692845 lr: 6.092e-06
+[[11/30/2020 12:48:43 PM]] Step 7080: train 0.692865 lr: 8.519e-06
+[[11/30/2020 12:48:45 PM]] Snapshot loss 0.692081
+[[11/30/2020 12:48:45 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:46 PM]] Step 7100: train 0.692751 lr: 1.095e-05
+[[11/30/2020 12:48:47 PM]] Step 7120: train 0.692825 lr: 1.337e-05
+[[11/30/2020 12:48:49 PM]] Snapshot loss 0.692041
+[[11/30/2020 12:48:49 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:50 PM]] Step 7140: train 0.693011 lr: 1.580e-05
+[[11/30/2020 12:48:52 PM]] Step 7160: train 0.693038 lr: 1.822e-05
+[[11/30/2020 12:48:53 PM]] Snapshot loss 0.692137
+[[11/30/2020 12:48:53 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:55 PM]] Step 7180: train 0.693011 lr: 2.065e-05
+[[11/30/2020 12:48:56 PM]] Step 7200: train 0.692941 lr: 2.308e-05
+[[11/30/2020 12:48:57 PM]] Snapshot loss 0.692080
+[[11/30/2020 12:48:57 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:48:59 PM]] Step 7220: train 0.692843 lr: 2.550e-05
+[[11/30/2020 12:49:00 PM]] Step 7240: train 0.692850 lr: 2.793e-05
+[[11/30/2020 12:49:02 PM]] Snapshot loss 0.691898
+[[11/30/2020 12:49:02 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:03 PM]] Step 7260: train 0.692865 lr: 3.036e-05
+[[11/30/2020 12:49:04 PM]] Step 7280: train 0.692939 lr: 3.278e-05
+[[11/30/2020 12:49:06 PM]] Snapshot loss 0.691839
+[[11/30/2020 12:49:06 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:06 PM]] ====================Epoch 32====================
+[[11/30/2020 12:49:07 PM]] Step 7300: train 0.692862 lr: 3.521e-05
+[[11/30/2020 12:49:09 PM]] Step 7320: train 0.693004 lr: 3.764e-05
+[[11/30/2020 12:49:10 PM]] Snapshot loss 0.692345
+[[11/30/2020 12:49:10 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:12 PM]] Step 7340: train 0.693113 lr: 4.006e-05
+[[11/30/2020 12:49:13 PM]] Step 7360: train 0.693304 lr: 4.249e-05
+[[11/30/2020 12:49:15 PM]] Snapshot loss 0.692190
+[[11/30/2020 12:49:15 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:16 PM]] Step 7380: train 0.693233 lr: 4.492e-05
+[[11/30/2020 12:49:17 PM]] Step 7400: train 0.693367 lr: 4.734e-05
+[[11/30/2020 12:49:19 PM]] Snapshot loss 0.692022
+[[11/30/2020 12:49:19 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:20 PM]] Step 7420: train 0.693335 lr: 4.977e-05
+[[11/30/2020 12:49:21 PM]] Step 7440: train 0.693082 lr: 5.220e-05
+[[11/30/2020 12:49:23 PM]] Snapshot loss 0.691898
+[[11/30/2020 12:49:23 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:24 PM]] Step 7460: train 0.693259 lr: 5.462e-05
+[[11/30/2020 12:49:25 PM]] Step 7480: train 0.693095 lr: 5.705e-05
+[[11/30/2020 12:49:27 PM]] Snapshot loss 0.692147
+[[11/30/2020 12:49:27 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:28 PM]] Step 7500: train 0.693058 lr: 5.948e-05
+[[11/30/2020 12:49:29 PM]] Step 7520: train 0.693126 lr: 6.190e-05
+[[11/30/2020 12:49:31 PM]] Snapshot loss 0.691008
+[[11/30/2020 12:49:35 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:35 PM]] New low
+
+[[11/30/2020 12:49:36 PM]] ====================Epoch 33====================
+[[11/30/2020 12:49:37 PM]] Step 7540: train 0.693191 lr: 6.433e-05
+[[11/30/2020 12:49:38 PM]] Step 7560: train 0.693417 lr: 6.676e-05
+[[11/30/2020 12:49:40 PM]] Snapshot loss 0.691633
+[[11/30/2020 12:49:40 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:41 PM]] Step 7580: train 0.692907 lr: 6.918e-05
+[[11/30/2020 12:49:42 PM]] Step 7600: train 0.692917 lr: 7.161e-05
+[[11/30/2020 12:49:44 PM]] Snapshot loss 0.696400
+[[11/30/2020 12:49:44 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:45 PM]] Step 7620: train 0.693734 lr: 7.404e-05
+[[11/30/2020 12:49:47 PM]] Step 7640: train 0.693614 lr: 7.646e-05
+[[11/30/2020 12:49:48 PM]] Snapshot loss 0.696098
+[[11/30/2020 12:49:48 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:50 PM]] Step 7660: train 0.694107 lr: 7.889e-05
+[[11/30/2020 12:49:51 PM]] Step 7680: train 0.694230 lr: 8.132e-05
+[[11/30/2020 12:49:53 PM]] Snapshot loss 0.692429
+[[11/30/2020 12:49:53 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:54 PM]] Step 7700: train 0.693972 lr: 8.374e-05
+[[11/30/2020 12:49:55 PM]] Step 7720: train 0.694304 lr: 8.617e-05
+[[11/30/2020 12:49:57 PM]] Snapshot loss 0.692814
+[[11/30/2020 12:49:57 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:49:58 PM]] Step 7740: train 0.694494 lr: 8.860e-05
+[[11/30/2020 12:49:59 PM]] ====================Epoch 34====================
+[[11/30/2020 12:50:00 PM]] Step 7760: train 0.694599 lr: 9.102e-05
+[[11/30/2020 12:50:01 PM]] Snapshot loss 0.692646
+[[11/30/2020 12:50:01 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:03 PM]] Step 7780: train 0.694733 lr: 9.345e-05
+[[11/30/2020 12:50:04 PM]] Step 7800: train 0.694888 lr: 9.587e-05
+[[11/30/2020 12:50:06 PM]] Snapshot loss 0.693389
+[[11/30/2020 12:50:06 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:07 PM]] Step 7820: train 0.695262 lr: 9.830e-05
+[[11/30/2020 12:50:08 PM]] Step 7840: train 0.695256 lr: 9.964e-05
+[[11/30/2020 12:50:10 PM]] Snapshot loss 0.693442
+[[11/30/2020 12:50:10 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:11 PM]] Step 7860: train 0.695664 lr: 9.842e-05
+[[11/30/2020 12:50:12 PM]] Step 7880: train 0.696239 lr: 9.721e-05
+[[11/30/2020 12:50:14 PM]] Snapshot loss 0.693034
+[[11/30/2020 12:50:14 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:15 PM]] Step 7900: train 0.696303 lr: 9.600e-05
+[[11/30/2020 12:50:16 PM]] Step 7920: train 0.695148 lr: 9.479e-05
+[[11/30/2020 12:50:18 PM]] Snapshot loss 0.693073
+[[11/30/2020 12:50:18 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:19 PM]] Step 7940: train 0.695226 lr: 9.357e-05
+[[11/30/2020 12:50:20 PM]] Step 7960: train 0.694873 lr: 9.236e-05
+[[11/30/2020 12:50:22 PM]] Snapshot loss 0.692282
+[[11/30/2020 12:50:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:23 PM]] Step 7980: train 0.694745 lr: 9.115e-05
+[[11/30/2020 12:50:24 PM]] ====================Epoch 35====================
+[[11/30/2020 12:50:25 PM]] Step 8000: train 0.694550 lr: 8.994e-05
+[[11/30/2020 12:50:27 PM]] Snapshot loss 0.696285
+[[11/30/2020 12:50:27 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:28 PM]] Step 8020: train 0.694560 lr: 8.872e-05
+[[11/30/2020 12:50:29 PM]] Step 8040: train 0.694939 lr: 8.751e-05
+[[11/30/2020 12:50:31 PM]] Snapshot loss 0.693524
+[[11/30/2020 12:50:31 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:32 PM]] Step 8060: train 0.695107 lr: 8.630e-05
+[[11/30/2020 12:50:33 PM]] Step 8080: train 0.694891 lr: 8.509e-05
+[[11/30/2020 12:50:35 PM]] Snapshot loss 0.695753
+[[11/30/2020 12:50:35 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:36 PM]] Step 8100: train 0.694835 lr: 8.387e-05
+[[11/30/2020 12:50:38 PM]] Step 8120: train 0.695087 lr: 8.266e-05
+[[11/30/2020 12:50:39 PM]] Snapshot loss 0.692593
+[[11/30/2020 12:50:39 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:40 PM]] Step 8140: train 0.695017 lr: 8.145e-05
+[[11/30/2020 12:50:42 PM]] Step 8160: train 0.694363 lr: 8.024e-05
+[[11/30/2020 12:50:43 PM]] Snapshot loss 0.692656
+[[11/30/2020 12:50:43 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:45 PM]] Step 8180: train 0.694321 lr: 7.902e-05
+[[11/30/2020 12:50:46 PM]] Step 8200: train 0.694396 lr: 7.781e-05
+[[11/30/2020 12:50:48 PM]] Snapshot loss 0.692909
+[[11/30/2020 12:50:48 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:49 PM]] Step 8220: train 0.694773 lr: 7.660e-05
+[[11/30/2020 12:50:49 PM]] ====================Epoch 36====================
+[[11/30/2020 12:50:50 PM]] Step 8240: train 0.694706 lr: 7.539e-05
+[[11/30/2020 12:50:52 PM]] Snapshot loss 0.692727
+[[11/30/2020 12:50:52 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:53 PM]] Step 8260: train 0.694446 lr: 7.417e-05
+[[11/30/2020 12:50:55 PM]] Step 8280: train 0.694575 lr: 7.296e-05
+[[11/30/2020 12:50:56 PM]] Snapshot loss 0.692658
+[[11/30/2020 12:50:56 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:50:58 PM]] Step 8300: train 0.694960 lr: 7.175e-05
+[[11/30/2020 12:50:59 PM]] Step 8320: train 0.694665 lr: 7.054e-05
+[[11/30/2020 12:51:01 PM]] Snapshot loss 0.692386
+[[11/30/2020 12:51:01 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:02 PM]] Step 8340: train 0.694274 lr: 6.932e-05
+[[11/30/2020 12:51:03 PM]] Step 8360: train 0.693762 lr: 6.811e-05
+[[11/30/2020 12:51:05 PM]] Snapshot loss 0.692722
+[[11/30/2020 12:51:05 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:06 PM]] Step 8380: train 0.693977 lr: 6.690e-05
+[[11/30/2020 12:51:07 PM]] Step 8400: train 0.694620 lr: 6.569e-05
+[[11/30/2020 12:51:09 PM]] Snapshot loss 0.692698
+[[11/30/2020 12:51:09 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:10 PM]] Step 8420: train 0.694027 lr: 6.447e-05
+[[11/30/2020 12:51:11 PM]] Step 8440: train 0.694080 lr: 6.326e-05
+[[11/30/2020 12:51:13 PM]] Snapshot loss 0.692756
+[[11/30/2020 12:51:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:14 PM]] Step 8460: train 0.694112 lr: 6.205e-05
+[[11/30/2020 12:51:14 PM]] ====================Epoch 37====================
+[[11/30/2020 12:51:16 PM]] Step 8480: train 0.694126 lr: 6.084e-05
+[[11/30/2020 12:51:18 PM]] Snapshot loss 0.692812
+[[11/30/2020 12:51:18 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:19 PM]] Step 8500: train 0.694116 lr: 5.962e-05
+[[11/30/2020 12:51:20 PM]] Step 8520: train 0.693948 lr: 5.841e-05
+[[11/30/2020 12:51:22 PM]] Snapshot loss 0.692745
+[[11/30/2020 12:51:22 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:23 PM]] Step 8540: train 0.693975 lr: 5.720e-05
+[[11/30/2020 12:51:24 PM]] Step 8560: train 0.693801 lr: 5.599e-05
+[[11/30/2020 12:51:26 PM]] Snapshot loss 0.693012
+[[11/30/2020 12:51:26 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:27 PM]] Step 8580: train 0.694247 lr: 5.477e-05
+[[11/30/2020 12:51:28 PM]] Step 8600: train 0.694356 lr: 5.356e-05
+[[11/30/2020 12:51:30 PM]] Snapshot loss 0.692767
+[[11/30/2020 12:51:30 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:31 PM]] Step 8620: train 0.694318 lr: 5.235e-05
+[[11/30/2020 12:51:33 PM]] Step 8640: train 0.694174 lr: 5.114e-05
+[[11/30/2020 12:51:34 PM]] Snapshot loss 0.692737
+[[11/30/2020 12:51:34 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:36 PM]] Step 8660: train 0.694142 lr: 4.992e-05
+[[11/30/2020 12:51:37 PM]] Step 8680: train 0.694293 lr: 4.871e-05
+[[11/30/2020 12:51:39 PM]] Snapshot loss 0.692736
+[[11/30/2020 12:51:39 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:40 PM]] ====================Epoch 38====================
+[[11/30/2020 12:51:40 PM]] Step 8700: train 0.693721 lr: 4.750e-05
+[[11/30/2020 12:51:41 PM]] Step 8720: train 0.693682 lr: 4.629e-05
+[[11/30/2020 12:51:43 PM]] Snapshot loss 0.692788
+[[11/30/2020 12:51:43 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:44 PM]] Step 8740: train 0.693335 lr: 4.507e-05
+[[11/30/2020 12:51:46 PM]] Step 8760: train 0.693497 lr: 4.386e-05
+[[11/30/2020 12:51:47 PM]] Snapshot loss 0.693337
+[[11/30/2020 12:51:47 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:49 PM]] Step 8780: train 0.693006 lr: 4.265e-05
+[[11/30/2020 12:51:50 PM]] Step 8800: train 0.693271 lr: 4.144e-05
+[[11/30/2020 12:51:52 PM]] Snapshot loss 0.694175
+[[11/30/2020 12:51:52 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:53 PM]] Step 8820: train 0.693550 lr: 4.022e-05
+[[11/30/2020 12:51:54 PM]] Step 8840: train 0.693601 lr: 3.901e-05
+[[11/30/2020 12:51:56 PM]] Snapshot loss 0.692937
+[[11/30/2020 12:51:56 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:51:57 PM]] Step 8860: train 0.693832 lr: 3.780e-05
+[[11/30/2020 12:51:58 PM]] Step 8880: train 0.693396 lr: 3.659e-05
+[[11/30/2020 12:52:00 PM]] Snapshot loss 0.692516
+[[11/30/2020 12:52:00 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:01 PM]] Step 8900: train 0.693326 lr: 3.537e-05
+[[11/30/2020 12:52:02 PM]] Step 8920: train 0.693290 lr: 3.416e-05
+[[11/30/2020 12:52:04 PM]] Snapshot loss 0.692516
+[[11/30/2020 12:52:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:05 PM]] ====================Epoch 39====================
+[[11/30/2020 12:52:06 PM]] Step 8940: train 0.692981 lr: 3.295e-05
+[[11/30/2020 12:52:07 PM]] Step 8960: train 0.692858 lr: 3.174e-05
+[[11/30/2020 12:52:09 PM]] Snapshot loss 0.693762
+[[11/30/2020 12:52:09 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:10 PM]] Step 8980: train 0.692897 lr: 3.052e-05
+[[11/30/2020 12:52:11 PM]] Step 9000: train 0.693200 lr: 2.931e-05
+[[11/30/2020 12:52:13 PM]] Snapshot loss 0.692242
+[[11/30/2020 12:52:13 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:14 PM]] Step 9020: train 0.692792 lr: 2.810e-05
+[[11/30/2020 12:52:15 PM]] Step 9040: train 0.693670 lr: 2.689e-05
+[[11/30/2020 12:52:17 PM]] Snapshot loss 0.692251
+[[11/30/2020 12:52:17 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:18 PM]] Step 9060: train 0.693624 lr: 2.567e-05
+[[11/30/2020 12:52:19 PM]] Step 9080: train 0.694019 lr: 2.446e-05
+[[11/30/2020 12:52:21 PM]] Snapshot loss 0.692225
+[[11/30/2020 12:52:21 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:22 PM]] Step 9100: train 0.693636 lr: 2.325e-05
+[[11/30/2020 12:52:24 PM]] Step 9120: train 0.693324 lr: 2.204e-05
+[[11/30/2020 12:52:25 PM]] Snapshot loss 0.692191
+[[11/30/2020 12:52:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:27 PM]] Step 9140: train 0.693309 lr: 2.082e-05
+[[11/30/2020 12:52:28 PM]] Step 9160: train 0.693216 lr: 1.961e-05
+[[11/30/2020 12:52:30 PM]] Snapshot loss 0.692135
+[[11/30/2020 12:52:30 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:30 PM]] ====================Epoch 40====================
+[[11/30/2020 12:52:31 PM]] Step 9180: train 0.693171 lr: 1.840e-05
+[[11/30/2020 12:52:32 PM]] Step 9200: train 0.693150 lr: 1.719e-05
+[[11/30/2020 12:52:34 PM]] Snapshot loss 0.692155
+[[11/30/2020 12:52:34 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:35 PM]] Step 9220: train 0.693010 lr: 1.597e-05
+[[11/30/2020 12:52:37 PM]] Step 9240: train 0.693349 lr: 1.476e-05
+[[11/30/2020 12:52:38 PM]] Snapshot loss 0.692033
+[[11/30/2020 12:52:38 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:40 PM]] Step 9260: train 0.693592 lr: 1.355e-05
+[[11/30/2020 12:52:41 PM]] Step 9280: train 0.693505 lr: 1.234e-05
+[[11/30/2020 12:52:43 PM]] Snapshot loss 0.692018
+[[11/30/2020 12:52:43 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:44 PM]] Step 9300: train 0.693179 lr: 1.112e-05
+[[11/30/2020 12:52:45 PM]] Step 9320: train 0.693455 lr: 9.911e-06
+[[11/30/2020 12:52:47 PM]] Snapshot loss 0.691987
+[[11/30/2020 12:52:47 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:48 PM]] Step 9340: train 0.692898 lr: 8.698e-06
+[[11/30/2020 12:52:49 PM]] Step 9360: train 0.692727 lr: 7.486e-06
+[[11/30/2020 12:52:51 PM]] Snapshot loss 0.691903
+[[11/30/2020 12:52:51 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:52 PM]] Step 9380: train 0.692636 lr: 6.273e-06
+[[11/30/2020 12:52:53 PM]] Step 9400: train 0.692711 lr: 5.061e-06
+[[11/30/2020 12:52:55 PM]] Snapshot loss 0.691831
+[[11/30/2020 12:52:55 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:52:55 PM]] ====================Epoch 41====================
+[[11/30/2020 12:52:57 PM]] Step 9420: train 0.692736 lr: 7.305e-06
+[[11/30/2020 12:52:58 PM]] Step 9440: train 0.692722 lr: 9.732e-06
+[[11/30/2020 12:53:00 PM]] Snapshot loss 0.691826
+[[11/30/2020 12:53:00 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:01 PM]] Step 9460: train 0.692734 lr: 1.216e-05
+[[11/30/2020 12:53:02 PM]] Step 9480: train 0.692630 lr: 1.458e-05
+[[11/30/2020 12:53:04 PM]] Snapshot loss 0.691827
+[[11/30/2020 12:53:04 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:05 PM]] Step 9500: train 0.692600 lr: 1.701e-05
+[[11/30/2020 12:53:06 PM]] Step 9520: train 0.692839 lr: 1.944e-05
+[[11/30/2020 12:53:08 PM]] Snapshot loss 0.691929
+[[11/30/2020 12:53:08 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:09 PM]] Step 9540: train 0.692879 lr: 2.186e-05
+[[11/30/2020 12:53:10 PM]] Step 9560: train 0.692865 lr: 2.429e-05
+[[11/30/2020 12:53:12 PM]] Snapshot loss 0.691937
+[[11/30/2020 12:53:12 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:13 PM]] Step 9580: train 0.692753 lr: 2.672e-05
+[[11/30/2020 12:53:15 PM]] Step 9600: train 0.692677 lr: 2.914e-05
+[[11/30/2020 12:53:16 PM]] Snapshot loss 0.691672
+[[11/30/2020 12:53:16 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:18 PM]] Step 9620: train 0.692716 lr: 3.157e-05
+[[11/30/2020 12:53:19 PM]] ====================Epoch 42====================
+[[11/30/2020 12:53:19 PM]] Step 9640: train 0.692501 lr: 3.400e-05
+[[11/30/2020 12:53:21 PM]] Snapshot loss 0.690948
+[[11/30/2020 12:53:25 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:26 PM]] Step 9660: train 0.692313 lr: 3.642e-05
+[[11/30/2020 12:53:27 PM]] Step 9680: train 0.692076 lr: 3.885e-05
+[[11/30/2020 12:53:29 PM]] Snapshot loss 0.689310
+[[11/30/2020 12:53:33 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:33 PM]] New low
+
+[[11/30/2020 12:53:34 PM]] Step 9700: train 0.691754 lr: 4.128e-05
+[[11/30/2020 12:53:35 PM]] Step 9720: train 0.691217 lr: 4.370e-05
+[[11/30/2020 12:53:37 PM]] Snapshot loss 0.697817
+[[11/30/2020 12:53:37 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:38 PM]] Step 9740: train 0.691918 lr: 4.613e-05
+[[11/30/2020 12:53:40 PM]] Step 9760: train 0.691799 lr: 4.856e-05
+[[11/30/2020 12:53:41 PM]] Snapshot loss 0.690945
+[[11/30/2020 12:53:41 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:43 PM]] Step 9780: train 0.692297 lr: 5.098e-05
+[[11/30/2020 12:53:44 PM]] Step 9800: train 0.692601 lr: 5.341e-05
+[[11/30/2020 12:53:45 PM]] Snapshot loss 0.692094
+[[11/30/2020 12:53:45 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:47 PM]] Step 9820: train 0.692674 lr: 5.584e-05
+[[11/30/2020 12:53:48 PM]] Step 9840: train 0.692643 lr: 5.826e-05
+[[11/30/2020 12:53:50 PM]] Snapshot loss 0.692693
+[[11/30/2020 12:53:50 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:51 PM]] Step 9860: train 0.692608 lr: 6.069e-05
+[[11/30/2020 12:53:52 PM]] ====================Epoch 43====================
+[[11/30/2020 12:53:52 PM]] Step 9880: train 0.693002 lr: 6.312e-05
+[[11/30/2020 12:53:54 PM]] Snapshot loss 0.691573
+[[11/30/2020 12:53:54 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:53:55 PM]] Step 9900: train 0.693033 lr: 6.554e-05
+[[11/30/2020 12:53:57 PM]] Step 9920: train 0.693032 lr: 6.797e-05
+[[11/30/2020 12:53:58 PM]] Snapshot loss 0.691474
+[[11/30/2020 12:53:58 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:54:00 PM]] Step 9940: train 0.693488 lr: 7.040e-05
+[[11/30/2020 12:54:01 PM]] Step 9960: train 0.694082 lr: 7.282e-05
+[[11/30/2020 12:54:03 PM]] Snapshot loss 0.692643
+[[11/30/2020 12:54:03 PM]] Saving checkpoint models/gap/try/1/best.pth...
+[[11/30/2020 12:54:04 PM]] Step 9980: train 0.694588 lr: 7.525e-05
+[[11/30/2020 12:54:05 PM]] Step 10000: train 0.695038 lr: 7.768e-05
+[[11/30/2020 12:54:07 PM]] Snapshot loss 0.692210
+[[11/30/2020 12:54:07 PM]] Saving checkpoint models/gap/try/1/best.pth...
